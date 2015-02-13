@@ -1,4 +1,4 @@
-$color: #ff00ff;
+$color: grey;
 
 body {
   p{
@@ -6,3 +6,31 @@ body {
     color: $color;
   }
 }
+
+.botoncito {
+	width: 75px;
+}
+
+.titulo {
+	color: #C9302C;
+}
+
+.ng-binding {
+	margin-top: 0px;
+	text-align: center;
+}
+
+.thumb_ {
+	position: absolute;
+	padding: 15px;
+	border-radius: 15px;
+}
+
+.redondeada {
+	border-radius: 10px;
+}
+
+.thumbnail {
+	height: 430px;
+}
+
